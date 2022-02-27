@@ -1,5 +1,3 @@
-# Watch-Note
-
 # WatchNote
 WatchNote is an modern notes application for Apple watches using watchOS and SwiftUI frameworks together
 # Features
